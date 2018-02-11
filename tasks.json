@@ -1,5 +1,5 @@
 [{
-  "task": "Buy swimsuit for daughter",
+  "task": "Buy swimsuit for son",
   "assignee": "husband",
   "actions": [{
       "displayName": "Research",
@@ -12,7 +12,7 @@
   ],
   "deadline": 1518818400,
   "priority": 4,
-  "categories": ["daughter"],
+  "categories": ["son"],
   "completed": false
 
 }, {
