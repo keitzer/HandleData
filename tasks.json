@@ -1,4 +1,21 @@
 [{
+  "task": "Buy swimsuit for daughter",
+  "assignee": "husband",
+  "actions": [{
+      "displayName": "Research",
+      "action": "Google whatever"
+    },
+    {
+      "displayName": "Execute",
+      "action": "Buy off Amazon "
+    }
+  ],
+  "deadline": 1518818400,
+  "priority": 4,
+  "categories": ["daughter"],
+  "completed": false
+
+}, {
   "task": "Sign daughter up for piano lessons",
   "assignee": "husband",
   "actions": [{
@@ -12,7 +29,7 @@
   ],
   "deadline": 1518503721,
   "priority": 2,
-  "categories": ["daughter", "next week", ],
+  "categories": ["daughter", "next week"],
   "completed": false
 
 }, {
@@ -183,23 +200,6 @@
   "deadline": 1518831384,
   "priority": 5,
   "categories": ["Event", "next week", "kids"],
-  "completed": false
-
-}, {
-  "task": "Drop off hand-me-downs",
-  "assignee": "husband",
-  "actions": [{
-      "displayName": "Research",
-      "action": "google whatever"
-    },
-    {
-      "displayName": "Execute",
-      "action": "contact salvation army"
-    }
-  ],
-  "deadline": 1522546584,
-  "priority": 2,
-  "categories": ["charity"],
   "completed": false
 
 }, {
