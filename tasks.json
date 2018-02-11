@@ -10,7 +10,7 @@
       "action": "contat piano techer"
     }
   ],
-  "deadline": "Fed. 15, 2018",
+  "deadline": 1518503721,
   "priority": 2,
   "categories": ["daughter", "next week"],
   "completed": false
@@ -28,7 +28,7 @@
     }
   ],
   "deadline": "Fed. 13, 2018",
-  "priority": 4,
+  "priority": 1518503721,
   "categories": ["daughter", "next week"],
   "completed": false
 
@@ -44,7 +44,7 @@
       "action": "contact dermatalogist office"
     }
   ],
-  "deadline": "Fed. 11, 2018",
+  "deadline": 1518312984,
   "priority": 5,
   "categories": ["daughter", "son", "next week"],
   "completed": false
@@ -61,7 +61,7 @@
       "action": "call party planer"
     }
   ],
-  "deadline": "Mar. 18, 2018",
+  "deadline": 1521336984,
   "priority": 5,
   "categories": ["son", "birthday"],
   "completed": false
@@ -78,7 +78,7 @@
       "action": "contact garage"
     }
   ],
-  "deadline": "Fed. 20, 2018",
+  "deadline": 1519090584,
   "priority": 3,
   "categories": ["car"],
   "completed": false
@@ -95,7 +95,7 @@
       "action": "contact nearby pool"
     }
   ],
-  "deadline": "Apr. 1, 2018",
+  "deadline": 1522546584,
   "priority": 2,
   "categories": ["son"],
   "completed": false
@@ -112,7 +112,7 @@
       "action": "use paypal to pay bill"
     }
   ],
-  "deadline": "Fed. 28, 2018",
+  "deadline": 1519781784,
   "priority": 5,
   "categories": ["bills"],
   "completed": false
@@ -129,7 +129,7 @@
       "action": "book AirBnB"
     }
   ],
-  "deadline": "May 1, 2018",
+  "deadline": 1525138584,
   "priority": 3,
   "categories": ["vactation"],
   "completed": false
@@ -146,7 +146,7 @@
       "action": "pay with paypal"
     }
   ],
-  "deadline": "Fed. 19, 2018",
+  "deadline": 1519004184,
   "priority": 4,
   "categories": ["daughter"],
   "completed": false
@@ -163,7 +163,7 @@
       "action": "buy dress of Amazon"
     }
   ],
-  "deadline": "Fed. 17, 2018",
+  "deadline": 1518831384,
   "priority": 5,
   "categories": ["party", "next week"],
   "completed": false
@@ -180,7 +180,7 @@
       "action": "contact nearby nanny"
     }
   ],
-  "deadline": "Fed. 17, 2018",
+  "deadline": 1518831384,
   "priority": 5,
   "categories": ["part", "next week", "kids"],
   "completed": false
@@ -197,7 +197,7 @@
       "action": "contact salvation army"
     }
   ],
-  "deadline": "Apr. 1, 2018",
+  "deadline": 1522546584,
   "priority": 2,
   "categories": ["charity"],
   "completed": false
