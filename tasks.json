@@ -6,16 +6,16 @@
       "action": "google whatever"
     },
     {
-      "displayName" : "Execute",
-      "action" : "contat piano techer"
+      "displayName": "Execute",
+      "action": "contat piano techer"
     }
   ],
-  "deadline" : "Fed. 15, 2018",
-  "priority" : 2,
-  "categories" : ["daughter", "next week"],
-  "completed" : false
+  "deadline": "Fed. 15, 2018",
+  "priority": 2,
+  "categories": ["daughter", "next week"],
+  "completed": false
 
-},{
+}, {
   "task": "Buy valentines for school party",
   "assignee": "nanny",
   "actions": [{
@@ -23,16 +23,16 @@
       "action": "google whatever"
     },
     {
-      "displayName" : "Execute",
-      "action" : "buy off Amazon"
+      "displayName": "Execute",
+      "action": "buy off Amazon"
     }
   ],
-  "deadline" : "Fed. 13, 2018",
-  "priority" : 4,
-  "categories" : ["daughter","next week"],
-  "completed" : false
+  "deadline": "Fed. 13, 2018",
+  "priority": 4,
+  "categories": ["daughter", "next week"],
+  "completed": false
 
-},{
+}, {
   "task": "Schedule dermatalogist appointment for both kids",
   "assignee": "husband",
   "actions": [{
@@ -40,16 +40,16 @@
       "action": "google whatever"
     },
     {
-      "displayName" : "Execute",
-      "action" : "contact dermatalogist office"
+      "displayName": "Execute",
+      "action": "contact dermatalogist office"
     }
   ],
-  "deadline" : "Fed. 11, 2018",
-  "priority" : 5,
-  "categories" : ["daughter", "son", "next week"],
-  "completed" : false
+  "deadline": "Fed. 11, 2018",
+  "priority": 5,
+  "categories": ["daughter", "son", "next week"],
+  "completed": false
 
-},{
+}, {
   "task": "Plan Wesley's 3rd birthday party",
   "assignee": "husband",
   "actions": [{
@@ -57,16 +57,16 @@
       "action": "google whatever"
     },
     {
-      "displayName" : "Execute",
-      "action" : "call party planer"
+      "displayName": "Execute",
+      "action": "call party planer"
     }
   ],
-  "deadline" : "Mar. 18, 2018",
-  "priority" : 5,
-  "categories" : ["son", "birthday"],
-  "completed" : false
+  "deadline": "Mar. 18, 2018",
+  "priority": 5,
+  "categories": ["son", "birthday"],
+  "completed": false
 
-},{
+}, {
   "task": "Schedule oil change",
   "assignee": "husband",
   "actions": [{
@@ -74,16 +74,16 @@
       "action": "google whatever"
     },
     {
-      "displayName" : "Execute",
-      "action" : "contact garage"
+      "displayName": "Execute",
+      "action": "contact garage"
     }
   ],
-  "deadline" : "Fed. 20, 2018",
-  "priority" : 3,
-  "categories" : ["car"],
-  "completed" : false
+  "deadline": "Fed. 20, 2018",
+  "priority": 3,
+  "categories": ["car"],
+  "completed": false
 
-},{
+}, {
   "task": "Sign son up for swimming lessons",
   "assignee": "husband",
   "actions": [{
@@ -91,16 +91,16 @@
       "action": "google whatever"
     },
     {
-      "displayName" : "Execute",
-      "action" : "contact nearby pool"
+      "displayName": "Execute",
+      "action": "contact nearby pool"
     }
   ],
-  "deadline" : "Apr. 1, 2018",
-  "priority" : 2,
-  "categories" : ["son"],
-  "completed" : false
+  "deadline": "Apr. 1, 2018",
+  "priority": 2,
+  "categories": ["son"],
+  "completed": false
 
-},{
+}, {
   "task": "Pay electric bill",
   "assignee": "husband",
   "actions": [{
@@ -108,16 +108,16 @@
       "action": "google whatever"
     },
     {
-      "displayName" : "Execute",
-      "action" : "use paypal to pay bill"
+      "displayName": "Execute",
+      "action": "use paypal to pay bill"
     }
   ],
-  "deadline" : "Fed. 28, 2018",
-  "priority" : 5,
-  "categories" : ["bills"],
-  "completed" : false
+  "deadline": "Fed. 28, 2018",
+  "priority": 5,
+  "categories": ["bills"],
+  "completed": false
 
-},{
+}, {
   "task": "Find summer rental",
   "assignee": "husband",
   "actions": [{
@@ -125,16 +125,16 @@
       "action": "google whatever"
     },
     {
-      "displayName" : "Execute",
-      "action" : "book AirBnB"
+      "displayName": "Execute",
+      "action": "book AirBnB"
     }
   ],
-  "deadline" : "May 1, 2018",
-  "priority" : 3,
-  "categories" : ["vactation"],
-  "completed" : false
+  "deadline": "May 1, 2018",
+  "priority": 3,
+  "categories": ["vactation"],
+  "completed": false
 
-},{
+}, {
   "task": "Send payment for NYC Field Trip",
   "assignee": "dad",
   "actions": [{
@@ -142,16 +142,16 @@
       "action": "google whatever"
     },
     {
-      "displayName" : "Execute",
-      "action" : "pay with paypal"
+      "displayName": "Execute",
+      "action": "pay with paypal"
     }
   ],
-  "deadline" : "Fed. 19, 2018",
-  "priority" : 4,
-  "categories" : ["daughter"],
-  "completed" : false
+  "deadline": "Fed. 19, 2018",
+  "priority": 4,
+  "categories": ["daughter"],
+  "completed": false
 
-},{
+}, {
   "task": "Buy dress for gala",
   "assignee": "best friend",
   "actions": [{
@@ -159,16 +159,16 @@
       "action": "google whatever"
     },
     {
-      "displayName" : "Execute",
-      "action" : "buy dress of Amazon"
+      "displayName": "Execute",
+      "action": "buy dress of Amazon"
     }
   ],
-  "deadline" : "Fed. 17, 2018",
-  "priority" : 5,
-  "categories" : ["party", "next week"],
-  "completed" : false
+  "deadline": "Fed. 17, 2018",
+  "priority": 5,
+  "categories": ["party", "next week"],
+  "completed": false
 
-},{
+}, {
   "task": "Book babysister for gala",
   "assignee": "sister",
   "actions": [{
@@ -176,16 +176,16 @@
       "action": "google whatever"
     },
     {
-      "displayName" : "Execute",
-      "action" : "contact nearby nanny"
+      "displayName": "Execute",
+      "action": "contact nearby nanny"
     }
   ],
-  "deadline" : "Fed. 17, 2018",
-  "priority" : 5,
-  "categories" : ["part", "next week", "kids"],
-  "completed" : false
+  "deadline": "Fed. 17, 2018",
+  "priority": 5,
+  "categories": ["part", "next week", "kids"],
+  "completed": false
 
-},{
+}, {
   "task": "Drop off hand-me-downs",
   "assignee": "husband",
   "actions": [{
@@ -193,14 +193,13 @@
       "action": "google whatever"
     },
     {
-      "displayName" : "Execute",
-      "action" : "contact salvation army"
+      "displayName": "Execute",
+      "action": "contact salvation army"
     }
   ],
-  "deadline" : "Apr. 1, 2018",
-  "priority" : 2,
-  "categories" : ["charity"],
-  "completed" : false
+  "deadline": "Apr. 1, 2018",
+  "priority": 2,
+  "categories": ["charity"],
+  "completed": false
 
-}
-]
+}]
