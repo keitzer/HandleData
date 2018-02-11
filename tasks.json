@@ -12,7 +12,7 @@
   ],
   "deadline": 1518503721,
   "priority": 2,
-  "categories": ["daughter", "next week"],
+  "categories": ["daughter", "next week", ],
   "completed": false
 
 }, {
@@ -114,7 +114,7 @@
   ],
   "deadline": 1519781784,
   "priority": 5,
-  "categories": ["bills"],
+  "categories": ["bill"],
   "completed": false
 
 }, {
@@ -165,7 +165,7 @@
   ],
   "deadline": 1518831384,
   "priority": 5,
-  "categories": ["party", "next week"],
+  "categories": ["Event", "next week"],
   "completed": false
 
 }, {
@@ -182,7 +182,7 @@
   ],
   "deadline": 1518831384,
   "priority": 5,
-  "categories": ["part", "next week", "kids"],
+  "categories": ["Event", "next week", "kids"],
   "completed": false
 
 }, {
