@@ -202,4 +202,21 @@
   "categories": ["charity"],
   "completed": false
 
+}, {
+  "task": "Drop off hand-me-downs",
+  "assignee": "husband",
+  "actions": [{
+      "displayName": "Research",
+      "action": "google whatever"
+    },
+    {
+      "displayName": "Execute",
+      "action": "contact salvation army"
+    }
+  ],
+  "deadline": 1522546584,
+  "priority": 2,
+  "categories": ["charity"],
+  "completed": false
+
 }]
