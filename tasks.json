@@ -186,7 +186,7 @@
   "completed": false
 
 }, {
-  "task": "Book babysister for gala",
+  "task": "Book babysitter for gala",
   "assignee": "sister",
   "actions": [{
       "displayName": "Research",
